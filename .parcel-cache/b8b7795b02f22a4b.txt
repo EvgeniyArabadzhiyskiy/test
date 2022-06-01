@@ -87,7 +87,7 @@
 50C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\.parcelrc132985713264077054 0
 47C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\assets132985713259702090 1
 48C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\.sassrc132985713264389638 0
-45C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\dist132985723225683654 1
+45C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\dist132985723226416106 1
 86C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\css-what\lib\commonjs\index.d.ts121436361000000000 0
 94C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\type-fest\source\fixed-length-array.d.ts121436361000000000 0
 94C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\@parcel\reporter-cli\src\bundleReport.js121436361000000000 0
@@ -122,7 +122,7 @@
 77C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\browserslist\index.d.ts121436361000000000 0
 96C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\@parcel\core\test\fixtures\parcel\index.js121436361000000000 0
 68C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\terser\LICENSE121436361000000000 0
-53C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\package.json132985722390395370 0
+53C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\package.json132985729541403678 0
 95C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\caniuse-lite\data\features\shadowdomv1.js121436361000000000 0
 98C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\@parcel\hash\parcel-hash.linux-x64-musl.node121436361000000000 0
 79C:\Users\EVGENIY-PC\Desktop\REPOSIT\test\node_modules\node-addon-api\napi-inl.h121436361000000000 0
